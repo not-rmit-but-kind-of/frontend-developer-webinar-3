@@ -19,7 +19,7 @@
     - printing form values back to the page
     - debugging
       
-3. Linters
+3. Linters / formatters
     - ESLint / Prettier 
     - Prettier-standard
 
